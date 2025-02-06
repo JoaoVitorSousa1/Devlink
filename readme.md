@@ -24,7 +24,7 @@ facilitar a comunicação e a divulgação de informações de forma rápida e e
 ## Como Rodar ⏯️ <a id="como-rodar"></a>
 Há duas formas de rodar o projeto, a primeira é a forma mais simples que é acessando o deploy Netflify, e a outra é pelos comando Git:
 
--  Netlify: [Projeto](  ).
+-  Netlify: [Projeto](https://67a3fbfb976ca73f254511d6--remarkable-pegasus-443872.netlify.app/).
 
 - Git:
 ```bash
