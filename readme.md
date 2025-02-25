@@ -10,21 +10,27 @@ facilitar a comunicação e a divulgação de informações de forma rápida e e
 - [Tecnologias Utilizadas 🛠️](#tecnologias-utilizadas)
 
 ## Estrutura ⚙️ <a id="estrutura"></a>
-- 
--
--
--
+- Contêiner principal `<div id="container">`
+- Perfil do usuário `<div id="profile">`
+- Botão de alternância de tema `<div id="switch">`
+- Lista de links `<ul>`
+- Links para redes sociais `<div id="social-links">`
+- Rodapé `<footer>`
+- Scripts para ícones e funcionalidades
+- Reset de CSS
+- Variáveis CSS para temas claro e escuro
+- Estilos globais e específicos para os elementos
+- lógica para alternar entre modos de tema light e dark com a função `toggleMode`
 
+## Ilustração 🖼️ <a id="ilustracao"></a>
+<b> Modo escuro:
+<img src="./img/dark-mode.png">
 
-## Ilustração 🖼️ <a id="Ilustracao"></a>
-<img src="Light Mode.png">
-
-
+<b>Modo claro:
+<img src="./img/light-mode.png">
 
 ## Como Rodar ⏯️ <a id="como-rodar"></a>
 Há duas formas de rodar o projeto, a primeira é a forma mais simples que é acessando o deploy Netflify, e a outra é pelos comando Git:
-
--  Netlify: [Projeto](https://67a3fbfb976ca73f254511d6--remarkable-pegasus-443872.netlify.app/).
 
 - Git:
 ```bash
@@ -72,5 +78,3 @@ $ npm run start
 - Ele pode atualizar e alterar HTML e CSS.
 
 - Ele pode calcular, manipular e validar dados.
-
-##
