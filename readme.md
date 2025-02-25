@@ -5,19 +5,19 @@ facilitar a comunicação e a divulgação de informações de forma rápida e e
 
 ## Índice 
 - [Estrutura ⚙️](#estrutura)
-- [Layout 🖼️](#layout)
+- [Ilustração 🖼️](#ilustracao)
 - [Como Rodar ⏯️](#como-rodar)
 - [Tecnologias Utilizadas 🛠️](#tecnologias-utilizadas)
 
-<b> Estrutura ⚙️ <a id="estrutura"></a></b>
--
+## Estrutura ⚙️ <a id="estrutura"></a>
+- 
 -
 -
 -
 
 
-<b> Layout 🖼️ <a id="Layout"></a></b>
-
+## Ilustração 🖼️ <a id="Ilustracao"></a>
+<img src="Light Mode.png">
 
 
 
@@ -72,4 +72,5 @@ $ npm run start
 - Ele pode atualizar e alterar HTML e CSS.
 
 - Ele pode calcular, manipular e validar dados.
+
 ##
