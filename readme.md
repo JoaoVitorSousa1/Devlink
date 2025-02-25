@@ -11,6 +11,7 @@ facilitar a comunicação e a divulgação de informações de forma rápida e e
 
 ## Estrutura ⚙️ <a id="estrutura"></a>
 - Contêiner principal `<div id="container">`
+
 - Perfil do usuário `<div id="profile">`
 - Botão de alternância de tema `<div id="switch">`
 - Lista de links `<ul>`
@@ -30,7 +31,9 @@ facilitar a comunicação e a divulgação de informações de forma rápida e e
 <img src="./img/light-mode.png">
 
 ## Como Rodar ⏯️ <a id="como-rodar"></a>
-Há duas formas de rodar o projeto, a primeira é a forma mais simples que é acessando o deploy Netflify, e a outra é pelos comando Git:
+Há duas formas de rodar o projeto, a primeira é a forma mais simples que é acessando o deploy Netflify, e a outra é através dos comando.
+
+- Netlify: https://remarkable-pegasus-443872.netlify.app/ 
 
 - Git:
 ```bash
