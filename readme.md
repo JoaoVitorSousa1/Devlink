@@ -6,7 +6,7 @@ facilitar a comunicação e a divulgação de informações de forma rápida e e
 ## Índice 
 - [Estrutura ⚙️](#estrutura)
 - [Ilustração 🖼️](#ilustracao)
-- [Como Rodar ⏯️](#como-rodar)
+- [Deploy ⏯️](#deploy)
 - [Tecnologias Utilizadas 🛠️](#tecnologias-utilizadas)
 
 ## Estrutura ⚙️ <a id="estrutura"></a>
@@ -30,8 +30,10 @@ facilitar a comunicação e a divulgação de informações de forma rápida e e
 <b>Modo claro:
 <img src="./img/light-mode.png">
 
-## Como Rodar ⏯️ <a id="como-rodar"></a>
-Há duas formas de rodar o projeto, a primeira é a forma mais simples que é acessando o deploy Netflify, e a outra é através dos comando.
+## Deploy ⏯️ <a id="deploy"></a>
+Para inicializar basta em um dos dois links ou cloando através de comando Git:
+
+- Github: https://joaovitorsousa1.github.io/Devlink/
 
 - Netlify: https://remarkable-pegasus-443872.netlify.app/ 
 
@@ -44,12 +46,7 @@ $ git clone https://github.com/JoaoVitorSousa1/Devlink
 # Acesse a pasta do projeto no seu terminal
 $ cd devlink
 
-# Instale as dependencias 
-$ npm install
-
-# execute a aplicação
-$ npm run start
-
+# Após as etapas basta apenas entrar no arquivo "Index.html"
 ```
 
 ## Tecnologias Utilizadas 🛠️<a id="tecnologias-utilizadas"></a>
