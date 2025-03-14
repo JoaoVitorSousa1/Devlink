@@ -18,12 +18,22 @@ function toggleMode(){
   const html = document.documentElement;
   const img = document.querySelector("#profile img") //1
 
-  html.classList.toggle('light')
-  if(html.classList.contains('light')){
-  img.setAttribute('src', './assets/avatar-light.jpg') //2
+  html.classList.toggle("light")
+  if(html.classList.contains("light")){
+  img.setAttribute("src", "./assets/avatar-light.png") //2
 
   }else{
-  img.setAttribute('src', './assets/img-2.jpg') //3
+    img.setAttribute("src", "./assets/avatar-dark.png") //3
   }
-
 }
+
+window.addEventListener("DOMContentLoaded", function() {
+  const html = document.documentElement;
+  const img = document.querySelector("#profile img");
+
+  if (html.classList.contains("light")) {
+    img.setAttribute("src", "./assets/avatar-light.png");
+  } else {
+    img.setAttribute("src", "./assets/avatar-dark.png");
+  }
+});
