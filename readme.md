@@ -44,7 +44,7 @@ Para inicializar basta em um dos dois links ou cloando através de comando Git:
 $ git clone https://github.com/JoaoVitorSousa1/Devlink
 
 # Acesse a pasta do projeto no seu terminal
-$ cd devlink
+$ cd Devlink
 
 # Após as etapas basta apenas entrar no arquivo "Index.html"
 ```
