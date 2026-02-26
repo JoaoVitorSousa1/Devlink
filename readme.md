@@ -50,31 +50,11 @@ $ cd Devlink
 ```
 
 ## Tecnologias Utilizadas 🛠️<a id="tecnologias-utilizadas"></a>
-<br>[HTML](https://www.w3schools.com/html/) :
-- HTML significa Hyper Text Markup Language (Linguagem demarcação de hipertexto).
+<div>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
 
-- HTML é a linguagem de marcação padrão para criar páginas da Web.
-
-- HTML descreve a estrutura de uma página da Web.
-
-- HTML consiste em uma série de elementos.
-
-- Os elementos HTML informam ao navegador como exibir o conteúdo.
-
-- Os elementos HTML rotulam partes de conteúdo como "este é um título", "este é um parágrafo", "este é um link", etc.
-
-<br>[CSS](https://www.w3schools.com/css/) :
-- CSS significa Cascading Style Sheets (Folhas de Estilo em Cascata).
-
-- CSS descreve como os elementos HTML devem ser exibidos na tela, papel, ou em outras mídias.
-
-- CSS economiza muito trabalho. Ele pode controlar o layout de Várias páginas da Web de uma só vez.
-
-- Folhas de estilo externas são armazenadas em arquivos CSS.
-
-<br>[Javascript](https://www.w3schools.com/js/default.asp) :
-- JavaScript é a linguagem de programação da web.
-
-- Ele pode atualizar e alterar HTML e CSS.
-
-- Ele pode calcular, manipular e validar dados.
+## Lincença ©️
+The [MIT License](./LICENSE).
