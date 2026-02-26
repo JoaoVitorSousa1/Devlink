@@ -1,6 +1,6 @@
 <h1> Devlink </h1>
-<br>Um agregador de links que funciona como um cartão de visita digital reunindo em um único local diversos links importantes,
-como por exemplos redes sociais, portiólios, sites pessoais, e outros conteúdos relevantes tudo de forma organizada e acessível ideal para 
+<br>Um agregador de links que funciona como um cartão de visita digital reunindo em um único local diversos links importantes
+como redes sociais, portiólios, sites pessoais, e outros conteúdos relevantes tudo de forma organizada e acessível ideal para 
 facilitar a comunicação e a divulgação de informações de forma rápida e eficiente seja para uso pessoal ou profissional.
 
 ## Índice 
